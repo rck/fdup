@@ -18,5 +18,5 @@ Usage
 
 or to exclude the time *find* needs:
 
-`$ find $PWD -type f > files.txt`
-`$ cat files.txt | ./fdup.py`
+`$ find $PWD -type f > files.txt
+$ cat files.txt | ./fdup.py`
