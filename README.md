@@ -15,6 +15,8 @@ Fstat, disc IO, hashing is in Python nearly as fast as in C, don't worry.
 Usage
 =====
 `$ find $PWD -type f | ./fdup.py`
+
 or to exclude the time *find* needs:
+
 `$ find $PWD -type f > files.txt`
 `$ cat files.txt | ./fdup.py`
