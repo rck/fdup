@@ -1,3 +1,0 @@
-A simple program that finds duplicate files.
-
-find $PWD -type f | ./fdup.py
